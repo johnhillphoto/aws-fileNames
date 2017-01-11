@@ -1,0 +1,15 @@
+{
+  "name": "folder-filenames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "awsGetFiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Hill",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "node-uuid": "^1.4.7"
+  }
+}
